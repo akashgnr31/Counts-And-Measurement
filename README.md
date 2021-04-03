@@ -8,7 +8,7 @@ We proposed a SciBERT + CRF model for entity and semantic relation extraction fr
 
 We achieved an overall fifth rank (among 19 participating teams) in the competition. We were also placed first in Quantity (tied) and Unit subtasks, second in MeasuredEntity, Modifier and Qualifies subtasks, and third in Qualifier subtask.
 
-## The instructions to run our code are given below :
+The instructions to run our code are given below :
 
 
 
