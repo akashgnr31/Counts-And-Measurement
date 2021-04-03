@@ -14,8 +14,8 @@ The instructions to run our code are given below :
 Download the train and dev dataset from the following link: https://drive.google.com/drive/folders/16ZsJIHmW4FDQC6SrOQ7CEhPSQCBxoadl?usp=sharing
 
 ## Training Scripts
-QuantityExtraction.ipynb : Contains the training Code for Quantity Extraction and full architechture of the SciBERT + CRF Model
+QuantityExtraction.ipynb : Contains the training Code for Quantity Extraction (SciBERT + CRF Model) 
 
 ## Pretrained Model
-Pretrained Model for Quantity Extraction (SciBERT + CRF) model: https://drive.google.com/file/d/1nwt5y7w_kevUUB5V9EEt-Zkh-0oqyPXe/view?usp=sharing
+Pretrained Model for Quantity Extraction (SciBERT + CRF Model) : https://drive.google.com/file/d/1nwt5y7w_kevUUB5V9EEt-Zkh-0oqyPXe/view?usp=sharing
 
