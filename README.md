@@ -10,5 +10,8 @@ We achieved an overall fifth rank (among 19 participating teams) in the competit
 
 The instructions to run our code are given below :
 
+## Getting Started
+Download the train and dev dataset from the following link: https://drive.google.com/drive/folders/16ZsJIHmW4FDQC6SrOQ7CEhPSQCBxoadl?usp=sharing
+
 
 
