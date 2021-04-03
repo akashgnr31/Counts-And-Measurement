@@ -1,4 +1,2 @@
-# CS698_Course_Project
-NLP Course Project
+# Counts@IITK at SemEval-2021 Task 8: SciBERT Based Entity And Semantic Relation Extraction For Scientific Data
 
-Preprocessing- https://github.com/chambliss/Multilingual_NER/blob/master/python/utils/main_utils.py#L118
