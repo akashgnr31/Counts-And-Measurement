@@ -22,17 +22,3 @@ MeasuredEntity_HasQuantity_Extraction.ipynb: Contains the training code for Meas
 Pretrained Model for Quantity Extraction (SciBERT + CRF Model) : https://drive.google.com/file/d/1nwt5y7w_kevUUB5V9EEt-Zkh-0oqyPXe/view?usp=sharing
 
 Pretrained Model for MeasuredEntity and HasQuantity Extraction (SciBERT + CRF Model) : https://drive.google.com/file/d/1zmkwq-JAj91zYPzSSdYBtLb2TFFbgWkP/view?usp=sharing
-
-## Citation
-
-If our proposed method is useful for your research, please consider citing:
-
-@misc{gangwar2021countsiitk,
-      title={Counts@IITK at SemEval-2021 Task 8: SciBERT Based Entity And Semantic Relation Extraction For Scientific Data}, 
-      author={Akash Gangwar and Sabhay Jain and Shubham Sourav and Ashutosh Modi},
-      year={2021},
-      eprint={2104.01364},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
-
